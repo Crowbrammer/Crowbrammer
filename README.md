@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Crowbrammer
-- 👀 I’m interested in cyberpunk stuff
-- 🌱 I’m currently learning CSS at the moment to build a front-end portfolio.
-- 💞️ I’m not looking to collaborate at the moment.
+- 👀 I’m interested in maximizing true love in the world.
+- 🌱 I’m currently learning to automate more of my writing process.
+- 💞️ I’m looking to collaborate if the project's interesting enough.
 - 📫 How to reach me: AttentionAaron#7462 on Discord
 
 <!---
